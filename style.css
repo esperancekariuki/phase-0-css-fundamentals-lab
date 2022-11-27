@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.topnav{
+  position: relative;
+  background-color: gray;
+  overflow: hidden;
+}
+.topnav a{
+  float: ;
+  text-align: center;
+  padding: 10px 10px;
+
+}
+#featured-property{
+  width: 900px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: space-around;
+}
+#details{
+  float: left;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+div{
+  float: left;
+}
